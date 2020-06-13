@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734151428533",
+    "firebase_url": "https://yogait-60997.firebaseio.com",
+    "project_id": "yogait-60997",
+    "storage_bucket": "yogait-60997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734151428533:android:be65426a25585f8650b1fc",
+        "android_client_info": {
+          "package_name": "com.gitikansh.yogait"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734151428533-2jf4ur3dk4c2v5vbpfdd6qr2dmth54f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz9hcp_jqfvmvCjketXFFlIRwsyvTUWEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734151428533-2jf4ur3dk4c2v5vbpfdd6qr2dmth54f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
